@@ -1,1 +1,1 @@
-# INF11207_Object-oriented-programming-II
+# Cours UQAR : Programmation Orientée Objet II (INF11207)
