@@ -1,0 +1,34 @@
+<Project>
+  <Name>Binary_Tree</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.ClassDiagram" assembly="NClass.DiagramEditor, Version=2.8.0.1, Culture=neutral, PublicKeyToken=null">
+    <Name>Example</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Noeud</Name>
+        <Access>Public</Access>
+        <Location left="159" top="146" />
+        <Size width="162" height="158" />
+        <Collapsed>False</Collapsed>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Containers />
+    <Relationships>
+      <Relationship type="Association" first="0" second="0">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>408</X>
+          <Y>262</Y>
+        </BendPoint>
+        <Direction>Bidirectional</Direction>
+        <AssociationType>Composition</AssociationType>
+        <StartRole>prédécesseur</StartRole>
+        <EndRole>successeur</EndRole>
+        <StartMultiplicity>0..1</StartMultiplicity>
+        <EndMultiplicity>1..2</EndMultiplicity>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>
