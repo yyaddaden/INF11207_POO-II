@@ -1,0 +1,36 @@
+﻿<Window x:Class="WelcomeApp.Views.Welcome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WelcomeApp.Views"
+        mc:Ignorable="d"
+        Title="Bienvenue" Height="145" Width="450" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" >
+
+    <Grid Margin="5,5,5,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Entrez votre nom :" VerticalAlignment="Center" Grid.Column="0" Grid.Row="0" />
+        <TextBox x:Name="personName" VerticalAlignment="Center" Grid.Column="1" Grid.Row="0" Height="25" Margin="0,0,10,0" />
+
+        <Label Content="Entrez votre fonction :" VerticalAlignment="Center" Grid.Column="0" Grid.Row="1" />
+        <ComboBox x:Name="personJob" VerticalAlignment="Center" Grid.Column="1" Grid.Row="1" Height="25" Margin="0,0,10,0" >
+            <ComboBoxItem Content="Étudiant" />
+            <ComboBoxItem Content="Ingénieur" />
+            <ComboBoxItem Content="Professeur" />
+            <ComboBoxItem Content="Directeur" />
+        </ComboBox>
+
+        <Label x:Name="welcomeWords" Content="..." HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="0" Grid.Row="2" />
+        <Button x:Name="apply" VerticalAlignment="Center" Grid.Column="1" Grid.Row="2" Height="25" Content="Bienvenue" Margin="0,0,10,0" Click="apply_Click" />
+    </Grid>
+</Window>
