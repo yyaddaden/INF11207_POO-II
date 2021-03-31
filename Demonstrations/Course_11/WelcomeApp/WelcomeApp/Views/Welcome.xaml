@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WelcomeApp.Views"
         mc:Ignorable="d"
-        Title="Bienvenue" Height="145" Width="450" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" >
+        Title="Bienvenue" Height="145" Width="450" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="/Views/icon.ico" >
 
     <Grid Margin="5,5,5,10">
         <Grid.ColumnDefinitions>
@@ -31,6 +31,6 @@
         </ComboBox>
 
         <Label x:Name="welcomeWords" Content="..." HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="0" Grid.Row="2" />
-        <Button x:Name="apply" VerticalAlignment="Center" Grid.Column="1" Grid.Row="2" Height="25" Content="Bienvenue" Margin="0,0,10,0" Click="apply_Click" />
+        <Button x:Name="welcome" VerticalAlignment="Center" Grid.Column="1" Grid.Row="2" Height="25" Content="Bienvenue" Margin="0,0,10,0" Click="WelcomeAction" />
     </Grid>
 </Window>

@@ -25,13 +25,19 @@ namespace WelcomeApp.Views
             InitializeComponent();
         }
 
-        private void apply_Click(object sender, RoutedEventArgs e)
+        private void WelcomeAction(object sender, RoutedEventArgs e)
         {
+            string personNameValue = personName.Text;
             ComboBoxItem comboBoxItem = (ComboBoxItem)personJob.SelectedValue;
-            if (comboBoxItem == null || personName.Text == "")
-                MessageBox.Show("Veuillez remplir tous les champs !", "Erreur", MessageBoxButton.OK, MessageBoxImage.Error);
+
+            if (!string.IsNullOrEmpty(personNameValue) && comboBoxItem != null)
+            {
+                string personJobValue = comboBoxItem.Content.ToString();
+                string generatedSentence = $"Bienvenue {personNameValue} ({personJobValue})";
+                welcomeWords.Content = generatedSentence;
+            }
             else
-                welcomeWords.Content = $"Bienvenue {personName.Text} ({comboBoxItem.Content})";
-        }   
+                MessageBox.Show("Veuillez remplir tous les champs !", "Erreur", MessageBoxButton.OK, MessageBoxImage.Error);
+        }
     }
 }
