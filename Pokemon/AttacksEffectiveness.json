@@ -1,0 +1,1622 @@
+[
+    {
+        "attack": "bug",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "bug",
+        "defend": "dark",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "bug",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "bug",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "bug",
+        "defend": "fairy",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "bug",
+        "defend": "fighting",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "bug",
+        "defend": "fire",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "bug",
+        "defend": "flying",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "bug",
+        "defend": "ghost",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "bug",
+        "defend": "grass",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "bug",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "bug",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "bug",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "bug",
+        "defend": "poison",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "bug",
+        "defend": "psychic",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "bug",
+        "defend": "rock",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "bug",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "bug",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "dark",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "dark",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "fairy",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "dark",
+        "defend": "fighting",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "dark",
+        "defend": "fire",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "ghost",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "dark",
+        "defend": "grass",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "psychic",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "dark",
+        "defend": "rock",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "steel",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dark",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "dragon",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "dragon",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "fairy",
+        "effectiveness": 0.390625
+    },
+    {
+        "attack": "dragon",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "fire",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "grass",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "rock",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "dragon",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "dragon",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "dragon",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "electric",
+        "defend": "electric",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "electric",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "fire",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "flying",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "electric",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "grass",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "electric",
+        "defend": "ground",
+        "effectiveness": 0.390625
+    },
+    {
+        "attack": "electric",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "rock",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "steel",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "electric",
+        "defend": "water",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fairy",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "dark",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fairy",
+        "defend": "dragon",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fairy",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "fighting",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fairy",
+        "defend": "fire",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fairy",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "grass",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "poison",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fairy",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "rock",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fairy",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fairy",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fighting",
+        "defend": "bug",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fighting",
+        "defend": "dark",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fighting",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fighting",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fighting",
+        "defend": "fairy",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fighting",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fighting",
+        "defend": "fire",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fighting",
+        "defend": "flying",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fighting",
+        "defend": "ghost",
+        "effectiveness": 0.390625
+    },
+    {
+        "attack": "fighting",
+        "defend": "grass",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fighting",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fighting",
+        "defend": "ice",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fighting",
+        "defend": "normal",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fighting",
+        "defend": "poison",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fighting",
+        "defend": "psychic",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fighting",
+        "defend": "rock",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fighting",
+        "defend": "steel",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fighting",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "bug",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fire",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "dragon",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fire",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "fire",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fire",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "grass",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fire",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "ice",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fire",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "fire",
+        "defend": "rock",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "fire",
+        "defend": "steel",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "fire",
+        "defend": "water",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "flying",
+        "defend": "bug",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "flying",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "electric",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "flying",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "fighting",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "flying",
+        "defend": "fire",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "grass",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "flying",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "flying",
+        "defend": "rock",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "flying",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "flying",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "dark",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "ghost",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "fire",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "ghost",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ghost",
+        "defend": "grass",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "normal",
+        "effectiveness": 0.390625
+    },
+    {
+        "attack": "ghost",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "psychic",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ghost",
+        "defend": "rock",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "steel",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ghost",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "grass",
+        "defend": "bug",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "grass",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "grass",
+        "defend": "dragon",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "grass",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "grass",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "grass",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "grass",
+        "defend": "fire",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "grass",
+        "defend": "flying",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "grass",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "grass",
+        "defend": "grass",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "grass",
+        "defend": "ground",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "grass",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "grass",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "grass",
+        "defend": "poison",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "grass",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "grass",
+        "defend": "rock",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "grass",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "grass",
+        "defend": "water",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ground",
+        "defend": "bug",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "ground",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ground",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ground",
+        "defend": "electric",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ground",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ground",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ground",
+        "defend": "fire",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ground",
+        "defend": "flying",
+        "effectiveness": 0.390625
+    },
+    {
+        "attack": "ground",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ground",
+        "defend": "grass",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "ground",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ground",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ground",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ground",
+        "defend": "poison",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ground",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ground",
+        "defend": "rock",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ground",
+        "defend": "steel",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ground",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "dragon",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ice",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "fire",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "ice",
+        "defend": "flying",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ice",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "grass",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ice",
+        "defend": "ground",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "ice",
+        "defend": "ice",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "ice",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "rock",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "ice",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "ice",
+        "defend": "water",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "normal",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "fire",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "ghost",
+        "effectiveness": 0.390625
+    },
+    {
+        "attack": "normal",
+        "defend": "grass",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "normal",
+        "defend": "rock",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "normal",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "normal",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "fairy",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "poison",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "fire",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "ghost",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "poison",
+        "defend": "grass",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "poison",
+        "defend": "ground",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "poison",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "poison",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "poison",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "poison",
+        "defend": "rock",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "poison",
+        "defend": "steel",
+        "effectiveness": 0.390625
+    },
+    {
+        "attack": "poison",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "dark",
+        "effectiveness": 0.390625
+    },
+    {
+        "attack": "psychic",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "fighting",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "psychic",
+        "defend": "fire",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "grass",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "poison",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "psychic",
+        "defend": "psychic",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "psychic",
+        "defend": "rock",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "psychic",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "psychic",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "bug",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "rock",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "fighting",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "rock",
+        "defend": "fire",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "rock",
+        "defend": "flying",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "rock",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "grass",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "ground",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "rock",
+        "defend": "ice",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "rock",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "rock",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "rock",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "rock",
+        "defend": "water",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "dragon",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "electric",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "steel",
+        "defend": "fairy",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "steel",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "fire",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "steel",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "grass",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "ground",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "ice",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "steel",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "steel",
+        "defend": "rock",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "steel",
+        "defend": "steel",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "steel",
+        "defend": "water",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "water",
+        "defend": "bug",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "dark",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "dragon",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "water",
+        "defend": "electric",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "fairy",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "fighting",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "fire",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "water",
+        "defend": "flying",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "ghost",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "grass",
+        "effectiveness": 0.625
+    },
+    {
+        "attack": "water",
+        "defend": "ground",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "water",
+        "defend": "ice",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "normal",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "poison",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "psychic",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "rock",
+        "effectiveness": 1.6
+    },
+    {
+        "attack": "water",
+        "defend": "steel",
+        "effectiveness": 1.0
+    },
+    {
+        "attack": "water",
+        "defend": "water",
+        "effectiveness": 0.625
+    }
+]
